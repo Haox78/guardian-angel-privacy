@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guardian Angel - Privacy Policy</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 { color: #5b7fc7; }
+        h2 { color: #6b8fd8; margin-top: 30px; }
+        a { color: #5b7fc7; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Guardian Angel</h1>
+    <p><strong>Last updated:</strong> February 5, 2026</p>
+
+    <h2>Introduction</h2>
+    <p>Guardian Angel ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.</p>
+
+    <h2>Information We Collect</h2>
+    <p>We collect the following information that you provide directly:</p>
+    <ul>
+        <li>Your name</li>
+        <li>Your age</li>
+        <li>Your location (city or country)</li>
+        <li>Personal reflections and concerns you choose to share</li>
+    </ul>
+
+    <h2>How We Use Your Information</h2>
+    <p>We use your information solely to:</p>
+    <ul>
+        <li>Personalize your spiritual guidance and daily wisdom</li>
+        <li>Provide relevant Bible verses and messages</li>
+        <li>Maintain your conversation history within the app</li>
+    </ul>
+
+    <h2>Data Storage</h2>
+    <ul>
+        <li>All your personal data is stored locally on your device</li>
+        <li>We do not store your data on external servers</li>
+        <li>Your conversation history remains on your device only</li>
+    </ul>
+
+    <h2>Third-Party Services</h2>
+    <p>We use Google's Gemini AI API to generate personalized spiritual guidance. When you receive daily wisdom or chat with the app:</p>
+    <ul>
+        <li>Your information (name, age, location, and what's on your heart) is sent to Google's Gemini API</li>
+        <li>This data is used only to generate personalized responses</li>
+        <li>Google's privacy policy applies to this data processing: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></li>
+    </ul>
+
+    <h2>We Do Not:</h2>
+    <ul>
+        <li>Sell your personal information</li>
+        <li>Share your data with third parties (except Gemini API as described above)</li>
+        <li>Track your activity outside the app</li>
+        <li>Collect any data beyond what you explicitly provide</li>
+    </ul>
+
+    <h2>Data Deletion</h2>
+    <p>You can delete your data at any time by:</p>
+    <ul>
+        <li>Using the "Clear" button in the app to delete your conversation history</li>
+        <li>Deleting the app from your device (this removes all locally stored data)</li>
+    </ul>
+
+    <h2>Children's Privacy</h2>
+    <p>This app is intended for users of all ages. We do not knowingly collect information from children under 13 without parental consent.</p>
+
+    <h2>Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last updated" date.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have questions about this Privacy Policy, please contact us at: <strong>[YOUR EMAIL HERE]</strong></p>
+
+    <h2>Your Rights</h2>
+    <p>You have the right to:</p>
+    <ul>
+        <li>Access the data we have about you</li>
+        <li>Request deletion of your data</li>
+        <li>Opt out of data collection by not using the app</li>
+    </ul>
+</body>
+</html>
